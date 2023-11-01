@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @KCKCKCKCKCKCKC (or KC for short)
-- 👀 I’m interested in getting a job
-- 🌱 I’m currently learning how to get a job
-- 💞️ I’m looking to collaborate on a job
 - 📫 How to reach me: caseme12@proton.me
 
 <!---
